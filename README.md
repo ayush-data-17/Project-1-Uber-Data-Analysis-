@@ -33,7 +33,7 @@ All the preprocessing and expolatory analysis were done i the python using **pan
 ---
 
 ## 📊 Dashboards and Features 
-#**1. Overview Dashboard**
+**1. Overview Dashboard**
 
 <img width="1095" height="725" alt="Overview" src="https://github.com/user-attachments/assets/3e073dfb-608b-4390-add2-d3631083855e" />
 
@@ -95,6 +95,46 @@ All the preprocessing and expolatory analysis were done i the python using **pan
 - Funnel chart: Revenue by hour (9 PM highest)
 
 ---
+
+**4.Cancellation**
+
+<img width="1090" height="721" alt="Cancellation Trend" src="https://github.com/user-attachments/assets/f16ae262-7117-44f7-a831-092630e31c21" />
+
+**Features:**
+
+**KPI'S:**
+- Total Cancellation: 130K
+- Cancellation By Driver: 27K
+- Cancellation By Customers: 10K
+- Cancellation Rate: 0.62
+
+
+**Charts And Visualization:**
+- Line Chart: Cancellation by drivers and by customers over months 
+- Pie Chart: Cancellation by vechile type(Auto: 9K)
+- Tree Maps: Reason for cancellatio by driver and customer
+
+---
+
+**5.Performance**
+
+**Features:**
+
+**KPI'S:**
+- Total Booking: 150K
+- Average Driver Rating: 4.26 
+- Average Customer Rating: 4.36
+- Average Trip Duration: 29.10 MIN
+
+
+**Charts And Visualization:**
+- Line Chart: Trip Duration per month 
+- Pie Chart: Customer rating by vechile type(Auto: 14%)
+- Bar Chart : Customer rating by time of day
+
+---
+
+
 
  
  
