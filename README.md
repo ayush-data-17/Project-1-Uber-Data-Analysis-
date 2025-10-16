@@ -29,5 +29,12 @@ All the preprocessing and expolatory analysis were done i the python using **pan
 - Done some feature engineering by adding new columns like **Rush Hour** , **Time of day**, **Month Name** and **Day**
 - Gathered insights by performing some basics visuaization in EDA
 - Generated summary satistics using **describe()** and **Correlation analysis**.
+
+---
+
+## 📊 Dashboards and Features 
+**1. Overview Dashboard**
+<img width="1095" height="725" alt="Overview" src="https://github.com/user-attachments/assets/3e073dfb-608b-4390-add2-d3631083855e" />
+
  
  
