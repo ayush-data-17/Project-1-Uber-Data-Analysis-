@@ -137,6 +137,43 @@ All the preprocessing and expolatory analysis were done i the python using **pan
 
 ---
 
+## 🧠 Key Insights 
+
+- 🛺**Auto and Go mini** Vehicles are the most frequent booked .
+- 📅**May , June , March and Jan** are the peak month in term of booking .
+- 💵**March and Oct** are the highest revenue generating months.
+- ❌ Majority of the cancellation are by the drivers .
+- ⭐ Premium cars has the more number of 5 star rating than the normal one
+---
+
+## 💼 Recommendation
+
+Based on the analysis here are some recommendation for theber company that can help them in the better decision making:
+
+1. **Increase driver incentives** during the peak hours to aviod cancellations
+2. offer **discounts or loyalty programs** for online payments to increase digital adoptaion.
+3. Use **demand forecasting** to position more vehicle in high demand locations.
+4. Focus on **traning and support** for drivers in the low rated zones .
+
+---
+
+## 🧰 Tools Used 
+
+- **Python:** pandas, numpy, matplotlib, seaborn
+- **Power BI:** For dashboard making , creating DAX problems and building report
+- **EDA:** For doing bivaraite and univariate analysis on the dataset and creating some basic visualizations .
+
+---
+
+## 🔗 Connect With Me 
+
+- **Author:** Ayush Lohat
+- **Linkdin:** www.linkedin.com/in/ayush-lohat-463187381
+
+
+
+  
+
 
 
  
