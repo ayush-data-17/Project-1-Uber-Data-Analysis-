@@ -118,6 +118,9 @@ All the preprocessing and expolatory analysis were done i the python using **pan
 
 **5.Performance**
 
+<img width="1088" height="715" alt="Performance Trend" src="https://github.com/user-attachments/assets/2f8949d4-6c56-44f9-8799-8b3fc64f83a8" />
+
+
 **Features:**
 
 **KPI'S:**
