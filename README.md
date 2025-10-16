@@ -75,5 +75,26 @@ All the preprocessing and expolatory analysis were done i the python using **pan
 
 ---
 
+**3. Revenue**
+
+<img width="1094" height="737" alt="Revenue Analysis" src="https://github.com/user-attachments/assets/832b4ae2-b74a-4305-beba-83c8f5636467" />
+
+**Features:**
+
+**KPI'S:**
+- Total Booking Value: 6.03CR
+- Average Fare Price: 402 RS
+- Most Revenue Genrating Vechile: Auto 
+- Most Revenue Genrating Day: Friday
+
+
+**Charts And Visualization:**
+- Line Chart: Revenue by months (March: 5.28 M)
+- Pie Chart: Revenue by Payment Method(UPI:52% And Cash: 20%)
+- Bar Chart: Revenue by vechile type(Auto: 15 M , Gomini: 12 M)
+- Funnel chart: Revenue by hour (9 PM highest)
+
+---
+
  
  
