@@ -169,9 +169,12 @@ Based on the analysis here are some recommendation for theber company that can h
 
 - **Author:** Ayush Lohat
 - **Linkdin:** www.linkedin.com/in/ayush-lohat-463187381
-- **GitHub:** 
+- **GitHub:** https://github.com/ayush-data-17
+- **Data Source:** **https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard?select=ncr_ride_bookings.csv
 
+---
 
+✨ *Thank you for exploring this project! Your feedback and suggestion are always welcome .*
 
   
 
