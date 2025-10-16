@@ -34,7 +34,46 @@ All the preprocessing and expolatory analysis were done i the python using **pan
 
 ## 📊 Dashboards and Features 
 **1. Overview Dashboard**
+
 <img width="1095" height="725" alt="Overview" src="https://github.com/user-attachments/assets/3e073dfb-608b-4390-add2-d3631083855e" />
+
+**Features:**
+
+**KPI'S:**
+- Total Booking Value: 6.03 cr
+- Total Bookig: 150k
+- Average Ride Distance: 20KM
+- Average Custumer Rating: 4.36
+- Cancellation Rate: 0.62
+
+**Charts And Visualizatiion:**
+- Line Chart: Number of ride per month in the year 2024(Peak rides in May, June and Jan)
+- Pie Chart: Total rides by the vehchile type(Auto: 20% and Go mini: 20%)
+- Bar Chart: Status of the rides(over 93k are completed)
+- Doughnut Chart: Payment Method(UPI: 62%)
+
+---
+
+**2. Booking Trend**
+
+<img width="1083" height="726" alt="Booking Analysis" src="https://github.com/user-attachments/assets/c6814a23-def3-4273-8fe1-65fe77db7ebf" />
+
+**Features:**
+
+**KPI'S:**
+- Average Fare Price: 402 RS
+- Average Trip Durtion: 29.10 MIN
+- Average Ride Distance: 20 KM
+- Average Wait Time : 9 MIN
+
+
+**Charts And Visualization:**
+- Stacked Column Charts: Booking trend by month weekday VS weekend (Weekdays are more dominants in term of booking where weekends are not)
+- Pie Chart: Total rides by the vehchile type(Auto: 20% and Go mini: 20%)
+- Map Chart; Most common pickup locations
+- Column Chart: Booking in what time of day(Late night: 54K)
+
+---
 
  
  
